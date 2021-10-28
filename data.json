@@ -1,0 +1,15 @@
+{
+  "id": "20210510100104650::88b5f678-fef5-447b-af15-f21e367e6d8c",
+  "account_id": "c8f1ef5d-edc0-4f23-9ee4-378f19cb92a4",
+  "activity_type": "FILL",
+  "transaction_time": "2021-05-10T14:01:04.650275Z",
+  "type": "fill",
+  "price": "128.33",
+  "qty": "0.38962051",
+  "side": "buy",
+  "symbol": "AAPL",
+  "leaves_qty": "0",
+  "order_id": "fe060a1b-5b45-4eba-ba46-c3a3345d8255",
+  "cum_qty": "0.38962051",
+  "order_status": "filled"
+}
